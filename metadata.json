@@ -1,0 +1,8 @@
+{
+  "name": "PanelHub",
+  "description": "A professional tool to search and view real-world photos and specifications of TV T-CON boards and LCD panels from major Chinese manufacturers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
